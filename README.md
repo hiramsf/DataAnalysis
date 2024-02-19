@@ -26,9 +26,8 @@ This project explores the landscape of electric vehicle (EV) charging infrastruc
 
 This project serves as a valuable resource for policymakers, urban planners, EV owners, and enthusiasts interested in sustainable transportation and the transition to electric mobility in Berlin.
 
-- [Link to Notebook](link_to_notebook.ipynb)
-- [Link to Dataset](link_to_dataset.csv)
-
+- [Link to Notebook](https://github.com/hiramsf/DataAnalysis/blob/main/Electric_Vehicles/ev_charging_stations_berlin.ipynb)
+- [Link to Dataset](https://github.com/hiramsf/DataAnalysis/blob/main/Electric_Vehicles/broker.xls)
 
 ## Getting Started
 
