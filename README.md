@@ -26,6 +26,8 @@ This project explores the landscape of electric vehicle (EV) charging infrastruc
 
 This project serves as a valuable resource for policymakers, urban planners, EV owners, and enthusiasts interested in sustainable transportation and the transition to electric mobility in Berlin.
 
+#### To ensure proper rendering of the Folium map in the notebook, please view it on nbviewer by following this [link](https://nbviewer.org/github/hiramsf/DataAnalysis/blob/main/Electric_Vehicles/ev_charging_stations_berlin.ipynb). GitHub does not support the rendering of dynamic elements like Folium maps directly in notebooks, but nbviewer provides full compatibility for interactive content, allowing you to experience the map as intended.
+
 - [Link to Notebook](https://github.com/hiramsf/DataAnalysis/blob/main/Electric_Vehicles/ev_charging_stations_berlin.ipynb)
 - [Link to Dataset](https://github.com/hiramsf/DataAnalysis/blob/main/Electric_Vehicles/broker.xls)
 
